@@ -51,4 +51,4 @@ This implementation can be used by strictly following the specifications of the 
 ## Authors
 
 -   Salces, Carl John S.
--   Villamil, John Ysaac.
+-   Villamil, John Ysaac S.

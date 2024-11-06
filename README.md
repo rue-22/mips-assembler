@@ -30,7 +30,7 @@ It also comes with different macros which can be called. The following macros in
 
 To compile the assembler, run the command on your preferred shell:
 
-`gcc -o mips_assembler cs21assembler.c && ./mips_assembler`
+`gcc -o mips_assembler assembler.c && ./mips_assembler`
 
 This implementation can be used by strictly following the specifications of the input:
 
@@ -44,7 +44,7 @@ This implementation can be used by strictly following the specifications of the 
 
 1. A file containing all the symbols and their corresponding addresses generated during the first-pass of the assembler. This is saved on `symboltable.txt`.
 2. A generated machine code (in binary) equivalent to the assembly instructions of
-   the input text file. This is saved on `execute.txt`
+   the input text file. This is saved on `execute.txt`.
 3. Printing to the console the expected output of the MIPS program
    (if applicable).
 

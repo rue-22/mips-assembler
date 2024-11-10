@@ -36,9 +36,9 @@ This implementation can be used by strictly following the specifications of the 
 
 ### Input Format
 
--   The input must be a `.txt` file.
--   The first line of input must be an integer _n_ corresponding to the total number of words in the MIPS program.
--   There should be no spaces between commas. There should only be spaces between the label, mnemonic, and the operands.
+1.   The input must be a `.txt` file.
+2.   The first line of input must be an integer _n_ corresponding to the total number of words in the MIPS program.
+3.   There should be no spaces between commas. There should only be spaces between the label, mnemonic, and the operands.
 
 ### Output Format
 
